@@ -26,7 +26,7 @@
 
 ## 使用方法注意：
 
-下载时需要将MAS_AIO.cmd.EXE和MAS_AIO.cmd两个文件一并下载，在D盘根目录下创建一个名为“激活软件或者激活”的文件夹，再把MAS_AIO.cmd.EXE和MAS_AIO.cmd两个文件移到这个新文件夹里，下载时需注意暂时关闭windows安全中心的保护和基于声誉保护，防止会被认定危险软件文件等，最后以管理员身份打开MAS_AIO.cmd.EXE即可，MAS_AIO.cmd文件只需在文件夹内即可，无需打开
+下载时需要将MAS_AIO.cmd.EXE和MAS_AIO.cmd两个文件一并下载，在D盘根目录下创建一个名为“激活”的文件夹，再把MAS_AIO.cmd.EXE和MAS_AIO.cmd两个文件移到这个新文件夹里，下载时需注意暂时关闭控制面板的WindowsDefender防火墙和windows安全中心的病毒和威胁防护的实时保护和基于声誉保护中的检查应用和文件以及适用于Microsoft Edge的SmartScreen和阻止可能不需要的应用等等这些选项，防止会被认定危险软件文件等，等待激活完毕后再逐个开启，最后以管理员身份打开MAS_AIO.cmd.EXE即可，MAS_AIO.cmd文件只需在文件夹内即可，无需打开
 
 ## 原项目提供的资源
 
